@@ -1,0 +1,16 @@
+#profile{
+    display: inline grid;
+    border-radius: 10px;
+    margin-left: 30px;
+    margin-top: 50px;
+    border: solid 1px;
+    border-color: rgb(137, 137, 211);
+
+}
+img{
+    gap: 100px;
+}
+h3{
+    font-size: 17px;
+    text-align: center;
+}
